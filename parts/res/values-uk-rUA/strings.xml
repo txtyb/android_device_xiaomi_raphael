@@ -68,7 +68,7 @@
 
     <!-- Popup camera settings -->
     <string name="popup_led_title">Світлодіод камери</string>
-    <string name="popup_led_summary">Вмикати індикацію світлодіодом, коли передня камера з'являється і зникає</string>
+    <string name="popup_led_summary">Вмикати індикацію світлодіодом, коли передня камера з\'являється і зникає</string>
     <string name="popup_title">Звукові ефекти фронтальної камери</string>
     <string name="popup_title_muqin">Ксилофон</string>
     <string name="popup_title_yingyan">Кондор</string>
