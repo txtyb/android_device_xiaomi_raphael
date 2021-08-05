@@ -56,6 +56,10 @@ PRODUCT_PROPERTY_OVERRIDES += \
     persist.fod.modified.dc_status=false \
     sys.displayfeature.hbm.enable=true
 
+# FOD
+PRODUCT_PROPERTY_OVERRIDES += \
+    persist.fod.night_mode_disabled=true
+
 # GBoard
 PRODUCT_PROPERTY_OVERRIDES += \
     ro.com.google.ime.kb_pad_port_b=1
